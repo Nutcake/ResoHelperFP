@@ -8,23 +8,14 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Reference Include="Elements.Core">
-        <HintPath>D:\Steam\steamapps\common\Resonite\Resonite_Data\Managed\Elements.Core.dll</HintPath>
-      </Reference>
-      <Reference Include="SkyFrost.Base">
-        <HintPath>D:\Steam\steamapps\common\Resonite\Resonite_Data\Managed\SkyFrost.Base.dll</HintPath>
-      </Reference>
-    </ItemGroup>
-
-    <ItemGroup>
-        <PackageReference Include="CliWrap" Version="3.6.6"/>
-        <PackageReference Include="Discord.Net" Version="3.13.0"/>
-        <PackageReference Include="Docker.DotNet" Version="3.125.15"/>
-        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0"/>
-        <PackageReference Include="System.Text.Json" Version="8.0.4"/>
-        <PackageReference Include="System.Threading.Channels" Version="8.0.0"/>
-        <PackageReference Include="System.Threading.Tasks.Dataflow" Version="8.0.0"/>
-        <PackageReference Include="YellowDogMan.Hardware.Info" Version="11.1.0-ydm-0.1.0"/>
+        <PackageReference Include="CliWrap" Version="3.6.6" />
+        <PackageReference Include="Discord.Net" Version="3.13.0" />
+        <PackageReference Include="Docker.DotNet" Version="3.125.15" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+        <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.1" />
+        <PackageReference Include="System.Text.Json" Version="8.0.5" />
+        <PackageReference Include="System.Threading.Channels" Version="8.0.0" />
+        <PackageReference Include="System.Threading.Tasks.Dataflow" Version="8.0.0" />		
     </ItemGroup>
 
 </Project>

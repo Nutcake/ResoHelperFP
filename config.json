@@ -2,6 +2,7 @@
   "DiscordToken": "",
   "DiscordServerId": 0,
   "DiscordLogChannelId": 0,
-  "ResoniteUsername": "",
-  "ResonitePassword": ""
+  "ContainersWhitelist": [
+
+  ]
 }
