@@ -2,6 +2,9 @@
   "DiscordToken": "",
   "DiscordServerId": 0,
   "DiscordLogChannelId": 0,
+  "FluxerToken": "",
+  "FluxerServerId": 0,
+  "FluxerLogChannelId": 0,
   "ContainersWhitelist": [
 
   ]
